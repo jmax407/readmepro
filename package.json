@@ -1,0 +1,22 @@
+{
+  "name": "readmepro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmax407/readmepro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmax407/readmepro/issues"
+  },
+  "homepage": "https://github.com/jmax407/readmepro#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
